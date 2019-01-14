@@ -1,0 +1,26 @@
+1. Tạo repository: 
++ New repository
++ Điền Repository name + Description (mô tả nếu cần)
++ Click Initialize this repository with a README: tự động tạo file readme.md
++ create repository
+
+2. Clone repository về máy: git clone đường_dẫn
+
+3. Kiểm tra trạng thái các file cập nhật: git status
+
+4. Thêm file: git add . hoặc git add *
+
+5. Commit file: git commit -m "Chú thích"
+
+6. Push file: git push
+
+=> để push file lên:
+	git status
+	git add .
+	git git status
+	git commit -m "Chú thích"
+	git push
+
+
+II. Làm việc với nhóm: Việc đẩy file lên theo thứ tự như trên
+- Trộn file: git pull
